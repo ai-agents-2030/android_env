@@ -1,4 +1,10 @@
+# 🌿🪑 [SPA-Bench](https://github.com/ai-agents-2030/SPA-Bench) – Major Adaptation for [AndroidEnv](https://github.com/google-deepmind/android_env) 🔧
 
+## AndroidEnv:
+- Add DeviceSimulator for physical android device adaption
+- Forward a11y tree using reverse proxy when connected to physical device
+
+---
 # AndroidEnv - The Android Learning Environment
 
 <img align="right" src="docs/images/device_control.gif" width="160" height="240">
